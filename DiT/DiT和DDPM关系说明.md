@@ -53,11 +53,12 @@ epsilon_theta(x_t, t)
 ```
 
 也就是说，DiT 的输入是：
-
 ```text
 带噪图片 x_t
 时间步 t
 ```
+
+
 
 DiT 的输出是：
 
